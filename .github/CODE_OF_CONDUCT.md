@@ -27,7 +27,7 @@ I put a lot of effort into creating a space where everyone feels welcome, and I 
 
 Thanks for being part of my little corner of the internet! Let’s keep the conversations fun, insightful, and respectful.
 
-___
+___________________________________________________________________________________________________________________________________________
 
 *This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html.*
 
